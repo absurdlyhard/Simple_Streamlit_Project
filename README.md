@@ -22,8 +22,11 @@ Explore a simple analysis of the Titanic dataset. This project showcases a data 
    pip install -r requirements.txt
 
 
-3. **Run Streamlit App:**
+3. **Run Streamlit App Locally:**
    ```bash
    streamlit run app.py
    
 
+4. **Web Application:**
+   
+   [View the App in Action](https://simple-web-app.streamlit.app/)
